@@ -1,0 +1,17 @@
+# Datasets (these are too large for GitHub)
+dataset/*.csv
+
+# Trained Models (optional to ignore, but good practice for large .pkl files)
+model/*.pkl
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+
+# Virtual Environments
+venv/
+env/
+.env
+
+# Streamlit
+.streamlit/
