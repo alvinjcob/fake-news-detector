@@ -55,3 +55,13 @@ dapro/
 - **Preprocessing**: Texts are lowercased, and we strip punctuation, numbers, and extra whitespaces.
 - **Vectorization**: Uses TF-IDF (Term Frequency-Inverse Document Frequency) without specific NLTK stopword dependencies for simplicity, but leveraging Scikit-learn's built-in english stop-word dictionary.
 - **Algorithm**: The core model is a probabilistic Multinomial Naive Bayes classifier, proven effective for text classification scenarios.
+  ## Dataset
+
+The dataset used in this project is not included in the repository due to size limitations.
+
+You can download it from Kaggle:
+
+https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset/data
+
+After downloading, place the CSV files inside the `dataset/` folder.
+
