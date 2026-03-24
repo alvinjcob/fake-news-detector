@@ -1,8 +1,8 @@
 # Datasets (these are too large for GitHub)
 dataset/*.csv
 
-# Trained Models (optional to ignore, but good practice for large .pkl files)
-model/*.pkl
+# Trained Models (Small enough for GitHub, needed for Streamlit Cloud!)
+# model/*.pkl
 
 # Python artifacts
 __pycache__/
