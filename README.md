@@ -1,4 +1,4 @@
-# Fake News Detector 📰
+# Fake News Detector 
 
 A complete web application to detect whether a news article is Fake or Real. Built using Python, Scikit-learn, and Streamlit.
 
